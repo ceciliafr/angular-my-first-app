@@ -1,6 +1,10 @@
-# Bingo
+# Angular first app - Homes
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.6 following the [first-app tutorial](https://angular.dev/tutorials/first-app).
+
+## This is the project running on localhost
+
+<img width="1678" height="904" alt="Screenshot 2025-11-18 at 20 08 13" src="https://github.com/user-attachments/assets/c7dc306d-6d87-4430-b28b-9a4acc5cc564" />
 
 ## Development server
 
